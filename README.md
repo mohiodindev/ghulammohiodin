@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghulammohiodin
-- 👀 I’m interested in web development flutter node js etc
-- 🌱 I’m currently learning node js 
+- 👀 I’m interested in react-native and  node js etc
+- 🌱 I’m currently working as a backend devloper in node js 
 - 💞️ I’m looking to collaborate on backend web development
 - 📫  reach me by email
 
