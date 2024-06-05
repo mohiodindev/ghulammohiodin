@@ -116,17 +116,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 <!-- BLOG-POST-LIST:END -->
 
-```
 
-```
 
-### Projects :
-
-- [Project 1](www.googl.com)
-- [Project 2](www.googl.com)
-- [Project 3](www.googl.com)
-- [Project 4](www.googl.com)
-- [Project 5](www.googl.com)
 
 
 
